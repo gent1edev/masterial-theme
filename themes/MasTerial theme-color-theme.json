@@ -667,9 +667,16 @@
     },
     {
       "name": "CSS class",
-      "scope": "entity.other.attribute-name.class",
+      "scope": "entity.other.attribute-name.class, source.css meta.property-value",
       "settings": {
         "foreground": "#FFCB6B"
+      }
+    },
+    {
+      "name": "CSS Pseudo Class",
+      "scope": "source.css entity.other.attribute-name.pseudo-class",
+      "settings": {
+        "foreground": "#C792EA"
       }
     },
     {
@@ -683,7 +690,14 @@
       "name": "CSS tag",
       "scope": "source.css entity.name.tag",
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#f07178"
+      }
+    },
+    {
+      "name": "CSS Custom Tag",
+      "scope": "source.css entity.name.tag.custom",
+      "settings": {
+        "foreground": "#f07178"
       }
     },
     {
