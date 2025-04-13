@@ -1,0 +1,21 @@
+{
+  "name": "masterial-theme",
+  "displayName": "MasTerial theme",
+  "description": "go-to theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MasTerial theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MasTerial theme-color-theme.json"
+      }
+    ]
+  }
+}
