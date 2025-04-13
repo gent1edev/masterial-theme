@@ -1,7 +1,24 @@
 {
   "name": "masterial-theme",
-  "displayName": "MasTerial theme",
-  "description": "go-to theme",
+  "displayName": "MasTerial Gentletheme",
+  "description": "Gentledev GO-TO VSCode theme",
+  "publisher": "Gentledev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gent1edev/masterial-theme"
+  },
+  "galleryBanner": {
+    "color": "#489789",
+    "theme": "dark"
+  },
+  "icon": "images/masterial-icon.jpg",
+  "keywords": [
+    "theme",
+    "masterial",
+    "material",
+    "gentledev",
+    "dark theme"
+  ],
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.99.0"
