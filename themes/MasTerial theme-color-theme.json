@@ -677,7 +677,28 @@
       "name": "CSS tag",
       "scope": "source.css entity.name.tag",
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#F78C6C"
+      }
+    },
+    {
+      "name": "CSS Property Values",
+      "scope": "source.css support.constant.property-value",
+      "settings": {
+        "foreground": "#F78C6C"
+      }
+    },
+    {
+      "name": "CSS Keyword Punctuation",
+      "scope": "source.css punctuation.definition.keyword",
+      "settings": {
+        "foreground": "#C792EA"
+      }
+    },
+    {
+      "name": "CSS Keyword Punctuation",
+      "scope": "source.css meta.at-rule support.constant",
+      "settings": {
+        "foreground": "#F78C6C"
       }
     },
     {
