@@ -389,6 +389,14 @@
       }
     },
     {
+      "name": "Builtin Types",
+      "scope": "support.type.builtin",
+      "settings": {
+        "foreground": "#C792EA",
+				"fontStyle": "italic"
+      }
+    },
+    {
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
