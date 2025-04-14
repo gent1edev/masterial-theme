@@ -19,7 +19,7 @@
     "gentledev",
     "dark theme"
   ],
-  "version": "0.0.53",
+  "version": "0.0.54",
   "engines": {
     "vscode": "^1.99.0"
   },

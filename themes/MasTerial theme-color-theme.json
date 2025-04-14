@@ -448,6 +448,14 @@
 				"fontStyle": "bold"
       }
     },
+    {
+      "name": "Keyword Definite Assignment",
+      "scope": "keyword.operator.definiteassignment",
+      "settings": {
+        "foreground": "#89DDFF",
+				"fontStyle": "bold"
+      }
+    },
 		{
 			"name": "Logical Operators",
 			"scope": [
