@@ -432,6 +432,14 @@
 				"fontStyle": ""
       }
     },
+    {
+      "name": "Keyword Optional",
+      "scope": "keyword.operator.optional",
+      "settings": {
+        "foreground": "#89DDFF",
+				"fontStyle": "bold"
+      }
+    },
 		{
 			"name": "Logical Operators",
 			"scope": [

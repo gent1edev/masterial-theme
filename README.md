@@ -1,16 +1,7 @@
-# masterial-theme README
+# MasTerial theme
 
-## Working with Markdown
+The go-to VSCode theme for the real gentledev - tailored colors, crisp contrast, and not a line out of place.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+You don't just write code - you perfect it. And this? This is your power board.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+**Now, get to work!**

@@ -1,7 +1,7 @@
 {
   "name": "masterial-theme",
   "displayName": "MasTerial Gentletheme",
-  "description": "Gentledev GO-TO VSCode theme",
+  "description": "The go-to VSCode theme for the real gentledev - tailored colors, crisp contrast, and not a line out of place. You don't just write code - you perfect it. And this? This is your power board.",
   "publisher": "Gentledev",
   "repository": {
     "type": "git",
@@ -11,7 +11,7 @@
     "color": "#489789",
     "theme": "dark"
   },
-  "icon": "images/masterial-icon.jpg",
+  "icon": "images/masterial-icon.png",
   "keywords": [
     "theme",
     "masterial",
@@ -19,7 +19,7 @@
     "gentledev",
     "dark theme"
   ],
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.99.0"
   },
