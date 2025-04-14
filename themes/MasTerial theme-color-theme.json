@@ -576,6 +576,14 @@
       }
     },
     {
+      "name": "Comment",
+      "scope": "comment.block.documentation punctuation.definition.block",
+      "settings": {
+        "foreground": "#C792EA",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "Punctuation",
       "scope": "punctuation",
       "settings": {
