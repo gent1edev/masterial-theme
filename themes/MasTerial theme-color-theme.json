@@ -434,7 +434,7 @@
     },
     {
       "name": "Keyword Type Anotation",
-      "scope": "keyword.operator.type.annotation",
+      "scope": "keyword.operator.type",
       "settings": {
         "foreground": "#89DDFF",
 				"fontStyle": ""
